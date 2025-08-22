@@ -1,15 +1,3 @@
-[submodule "submodules/epoxy-tls"]
-	path = submodules/epoxy-tls
-	url = https://github.com/MercuryWorkshop/epoxy-tls.git
-
-[submodule "submodules/twisp"]
-	path = submodules/twisp
-	url = https://github.com/MercuryWorkshop/twisp.git
-
-[submodule "submodules/v86"]
-	path = submodules/v86
-	url = https://github.com/HeyPuter/v86.git
-
-[submodule "submodules/wiki"]
-	path = submodules/wiki
-	url = https://github.com/HeyPuter/wiki.git
+[submodule "puter-js"]
+    path = puter-js
+    url = https://github.com/HeyPuter/puter-js.git
