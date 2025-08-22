@@ -1,5 +1,7 @@
 import express from "express";
-import { puter } from "./puter-js/dist/puter.mjs"; // ایمپورت از سورس لوکال
+
+// 🚀 import مستقیم از submodule
+import Puter from "./puter-js/index.js";
 
 const app = express();
 app.use(express.json());
