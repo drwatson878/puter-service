@@ -1,6 +1,6 @@
 import express from "express";
 
-import Puter from "@puter/puter-js";   // از پکیج puter-js فورک‌شده
+import Puter from "./puter-js/index.js";
 
 const app = express();
 app.use(express.json());
